@@ -1,0 +1,19 @@
+.yellowcolor{
+    background-color: yellow;
+}
+.red{
+    background-color: darkmagenta;
+}
+.blue{
+    background-color: aqua;
+}
+.green{
+    background-color: green;
+    font-size: large;
+}
+.move{
+    margin-left: 150px;
+    margin-top: 200px;
+    width: 1000px;
+    height: 700;
+}

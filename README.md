@@ -1,1 +1,1 @@
-# Frontend
+O'ta go'zal🧊
